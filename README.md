@@ -47,5 +47,5 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
 * http://agri.ckcest.cn/ass/8185d605-6c4d-4d8a-b280-c867c2304d42.pdf
 * https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
 
-#Run
-streamlit run app.py
+# Run
+* streamlit run app.py
